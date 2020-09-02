@@ -3,7 +3,7 @@ public class sudoku {
     The sudoku class contains a 2-dimensional array which stores the values of the 9x9 sudoku board
     The purpose of the class is to contain sudoku grids and solve them.
      */
-    
+
     int[][] grid;
     int boardLength = 9;
 
