@@ -1,4 +1,4 @@
-sudokuAssignment
+sudokuAssignment (doc specified a txt)
 
 Group: Kenny Dong, Collin Inns
 
